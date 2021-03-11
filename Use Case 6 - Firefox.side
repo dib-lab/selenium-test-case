@@ -63,6 +63,13 @@
       ],
       "value": ""
     }, {
+      "id": "e36cbd37-fc06-492e-af5d-d57f85db553f",
+      "comment": "",
+      "command": "pause",
+      "target": "500",
+      "targets": [],
+      "value": ""
+    }, {
       "id": "26ae5bb1-e638-4dc7-ad9f-bbb3934c5e73",
       "comment": "",
       "command": "click",
@@ -75,10 +82,24 @@
       ],
       "value": ""
     }, {
+      "id": "140b909f-761d-447c-b80b-51411873a316",
+      "comment": "",
+      "command": "pause",
+      "target": "500",
+      "targets": [],
+      "value": ""
+    }, {
       "id": "97dc9230-e94a-4950-bb6e-18a804f0dcb4",
       "comment": "",
       "command": "runScript",
       "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fe109eba-2d3c-42dc-a38f-dfb6d1ae365e",
+      "comment": "",
+      "command": "pause",
+      "target": "500",
       "targets": [],
       "value": ""
     }, {
@@ -92,6 +113,13 @@
         ["xpath=//html[@id='recordset']/body/div/div/div/div[2]/div/recordset-select-faceting/div/div[2]/div[2]/div/div/record-table-select-faceting/div/table/tbody/tr[12]/td/div/input", "xpath:idRelative"],
         ["xpath=//tr[12]/td/div/input", "xpath:position"]
       ],
+      "value": ""
+    }, {
+      "id": "d1f3c844-3e59-4c3b-b282-45a218ad388e",
+      "comment": "",
+      "command": "pause",
+      "target": "500",
+      "targets": [],
       "value": ""
     }, {
       "id": "9582c74c-e704-48ab-9237-99966fd0fa7d",
@@ -113,10 +141,24 @@
       "targets": [],
       "value": ""
     }, {
+      "id": "935a4b0a-772d-4825-af5c-ec841e336986",
+      "comment": "",
+      "command": "pause",
+      "target": "500",
+      "targets": [],
+      "value": ""
+    }, {
       "id": "bb55a939-3c34-4a8b-8ce8-023fa7a98327",
       "comment": "",
       "command": "runScript",
       "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "de58eca2-38df-4502-b7d0-7a97adaa0077",
+      "comment": "",
+      "command": "pause",
+      "target": "500",
       "targets": [],
       "value": ""
     }, {
@@ -133,10 +175,24 @@
       ],
       "value": ""
     }, {
+      "id": "9ef135df-673a-4f99-bae7-d3e134d75538",
+      "comment": "",
+      "command": "pause",
+      "target": "500",
+      "targets": [],
+      "value": ""
+    }, {
       "id": "04267dbf-6036-49ba-ac61-b5b71feacbd7",
       "comment": "",
       "command": "runScript",
       "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2338a872-2935-446f-b9f4-f4d46e7d3cb3",
+      "comment": "",
+      "command": "pause",
+      "target": "500",
       "targets": [],
       "value": ""
     }, {
@@ -153,6 +209,13 @@
       ],
       "value": ""
     }, {
+      "id": "b2c54252-4c6b-4b88-b578-b3b01d177b16",
+      "comment": "",
+      "command": "pause",
+      "target": "500",
+      "targets": [],
+      "value": ""
+    }, {
       "id": "4d7ef177-49c8-47aa-bbd0-122fe5caf669",
       "comment": "",
       "command": "click",
@@ -164,10 +227,24 @@
       ],
       "value": ""
     }, {
+      "id": "00c8837d-699e-4e29-9286-fdc3d136fd9b",
+      "comment": "",
+      "command": "pause",
+      "target": "500",
+      "targets": [],
+      "value": ""
+    }, {
       "id": "71ef2342-5c9d-4670-aa03-02d4ef5d0a85",
       "comment": "",
       "command": "runScript",
       "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5c31d70f-e14a-4175-91cf-4c18fae5b628",
+      "comment": "",
+      "command": "pause",
+      "target": "500",
       "targets": [],
       "value": ""
     }, {
@@ -183,6 +260,13 @@
       ],
       "value": ""
     }, {
+      "id": "edf4208c-8c2d-46aa-b2d4-1ed667e4fcb4",
+      "comment": "",
+      "command": "pause",
+      "target": "500",
+      "targets": [],
+      "value": ""
+    }, {
       "id": "567c2c97-bcdb-4882-bf85-5ea65be70ab3",
       "comment": "",
       "command": "click",
@@ -196,6 +280,13 @@
       ],
       "value": ""
     }, {
+      "id": "f40402db-0b4a-4caf-aa3d-f91264b282be",
+      "comment": "",
+      "command": "pause",
+      "target": "500",
+      "targets": [],
+      "value": ""
+    }, {
       "id": "b5234705-a3fc-44a6-a43a-2f2fe7af098c",
       "comment": "",
       "command": "click",
@@ -206,6 +297,13 @@
         ["xpath=//export/div/button/span[2]", "xpath:position"],
         ["xpath=//span[contains(.,'Export ')]", "xpath:innerText"]
       ],
+      "value": ""
+    }, {
+      "id": "52eea64f-40fb-4843-87bd-824813e41dc4",
+      "comment": "",
+      "command": "pause",
+      "target": "500",
+      "targets": [],
       "value": ""
     }, {
       "id": "6b69f1da-010b-4ba8-baa4-5bedd61c138f",
